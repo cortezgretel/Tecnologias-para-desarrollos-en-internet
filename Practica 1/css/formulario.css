@@ -1,0 +1,17 @@
+.formulario-registro{
+    padding: 10px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.registro-titulo{
+    font-family: Roboto;
+    font-size: 30px;
+    display: flex;
+    margin:auto;
+    justify-content: space-around;
+}
+.botones-form{
+    margin-top: 25px;
+}
